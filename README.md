@@ -1,6 +1,8 @@
-<h1/>👋 Hey! I'm Will </h1>
-<h3 align="center">Software Engineer from Atlanta, GA</h3>
 <div align="center">
+  <h1/>👋 Hey! I'm Will </h1>
+  
+  <h3 align="center">Software Engineer from Atlanta, GA</h3>
+  
   <a href="https://www.linkedin.com/in/will-cepress/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br><br/>
 </div>
