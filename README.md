@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I’m a senior studying Computer Science, graduating in Spring 2025. I’m excited to connect with others and build meaningful projects.
+I’m a senior at UGA studying Computer Science, graduating in Spring 2025. I’m excited to connect with others and build meaningful projects.
 
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See my portfolio at [https://wcepress.me/](http://wcepress.me)
