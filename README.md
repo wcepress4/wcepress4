@@ -7,14 +7,6 @@
   <br><br/>
 </div>
 
-
-```python
-will_cepress = {
-  "code": ["Java", "Python", "C", "HTML", "CSS", "Javascript"]
-  "tools": ["PyCharm", "IntelliJ", "Git", "Spring Boot", "React.js", "pandas"]
-}
-```
-
 #   
 <div align="center">
  <h3 align="left">🛠️More Languages and Tools:</h3>
